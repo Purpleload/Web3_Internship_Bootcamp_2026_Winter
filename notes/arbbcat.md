@@ -4,7 +4,7 @@ timezone: UTC+8
 
 # Purpleload
 
-**GitHub ID:** Purpleload
+**GitHub ID:** arbbcat
 
 **Telegram:** 
 
